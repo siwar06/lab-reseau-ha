@@ -1,0 +1,10 @@
+# Ne jamais publier de secrets
+config.xml
+config-*.xml
+*.key
+*.pem
+*.pcap
+*.pcapng
+*password*
+*secret*
+.env
