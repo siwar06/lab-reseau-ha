@@ -1,7 +1,5 @@
 # Lab réseau d'entreprise haute disponibilité (EVE-NG)
 
-Projet RSI2 · ISET Charguia · Auteur : Siwar Srairi
-
 Réseau d'entreprise redondant : accès par VLANs, deux switchs cœur en HSRP (load-sharing) avec DHCP en split-scope, EtherChannel LACP vers deux routeurs de bordure, OSPF jusqu'aux branches, pare-feu pfSense en haute disponibilité (CARP) avec NAT vers Internet, et une DMZ isolée.
 
 ## Ordre de lecture (preuves)
